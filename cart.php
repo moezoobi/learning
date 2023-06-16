@@ -121,7 +121,7 @@
                 
                 $_SESSION['total_price'] = $_SESSION['amount'][$_SESSION['counter']] * $_SESSION['unit_price'][ $_SESSION['counter']];
                 //$_SESSION["table_data_checkout"] = $_SESSION['checkout_default'].$_SESSION['latter_sub_checkout'][ $_SESSION['counter']].$_SESSION['amount_sub'][ $_SESSION['counter']]; check out data, furure use
-        
+        	echo "pp";
             }
             
             
